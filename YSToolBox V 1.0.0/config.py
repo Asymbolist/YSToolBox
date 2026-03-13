@@ -1,0 +1,5 @@
+APP_NAME    = "YSToolBox"
+VERSION     = "1.0.0"
+AUTHOR      = "云笙Asymbolist"
+GITHUB      = "https://github.com/Asymbolist"
+UPDATE_URL  = "https://github.com/Asymbolist/YSToolBox"
