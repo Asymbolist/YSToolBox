@@ -34,14 +34,32 @@ YSToolBox 是一款基于 PyQt6 开发的 Windows 系统管理工具，集成一
 启动程序：`python main.py`
 
 ## 项目结构
-YSToolBox/ ├── main.py ├── ui/ │   ├── main_window.py │   └── styles.py ├── modules/ │   ├── cleaner.py │   ├── sysinfo.py │   ├── shortcut.py │   ├── killtask.py │   ├── timer.py │   ├── delete.py │   ├── clicker.py │   ├── arrow.py │   ├── startup.py │   └── synctime.py └── res/ └── logo.ico
+YSToolBox/
+├── main.py                 # 程序入口
+├── ui/
+│   ├── main_window.py
+│   └── styles.py
+├── modules/
+│   ├── cleaner.py
+│   ├── sysinfo.py
+│   ├── shortcut.py
+│   ├── killtask.py
+│   ├── timer.py
+│   ├── delete.py
+│   ├── clicker.py
+│   ├── arrow.py
+│   ├── startup.py
+│   └── synctime.py
+└── res/
+    └── logo.ico
+
 
 ## 注意事项
 - 部分功能涉及系统文件操作，使用前请确保已保存重要数据
 - 本工具仅用于个人学习和非商业用途
 - 禁止用于非法用途、游戏作弊等违规场景
 
-## 📄 开源协议
+## 开源协议
 **Asymbolist Non-Commercial Share-Alike License v1.0**
 - ✅ 允许学习、研究、非商业分发
 - ✅ 允许修改源代码
@@ -50,6 +68,10 @@ YSToolBox/ ├── main.py ├── ui/ │   ├── main_window.py │   
 - ⚠️ 衍生作品必须使用相同协议开源
 - ⚠️ 原项目闭源后，衍生作品必须同步停止公开发布
 
-## 🧾 作者
-Asymbolist  
+## 用户社区
+### 微信公众号（WeChat Official Account）ID:Asymbolist37230
+### QQ用户社区:224336421
+
+## 作者
+### 云笙Asymbolist  
 GitHub：https://github.com/Asymbolist
